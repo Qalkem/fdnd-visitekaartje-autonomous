@@ -1,4 +1,5 @@
 # 🎫 Visitekaartje Jean C.M. Rojer
+ <img width="900"  height="700" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653625-159efd59-a20e-4ea7-83a5-417de78ce861.png">
 
 In sprint 1 hebben wij als opdracht om een visitekaartje te maken met behulp van Visual Studiocode(aanbevolen). 
 Bij deze visitekaartje heb ik vooral gebruik gemaakt van HTML en CSS. 
