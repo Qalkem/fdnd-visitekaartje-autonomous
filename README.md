@@ -14,7 +14,7 @@ Mijn verwachting : Een toffe visitekaartje  dat kan 180graden kan draaien met ee
 
 In de ontwerpfase heb ik  gebruik gemaakt van divergeren en convergeren om een passende ontwerp te vinden voor de visite kaartje. 
 
-<img width="737"  height="737 " alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653080-df261b7c-afbf-4551-becf-d811a711adba.png">
+<img width="1437"  height="737 " alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653080-df261b7c-afbf-4551-becf-d811a711adba.png">
 
  
  # Bouwfase 👷
