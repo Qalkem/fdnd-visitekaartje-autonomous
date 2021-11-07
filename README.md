@@ -21,7 +21,9 @@ In de ontwerpfase heb ik  gebruik gemaakt van divergeren en convergeren om een p
  
  # Bouwfase 👷
  
- <img width="728"  height="551" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653625-159efd59-a20e-4ea7-83a5-417de78ce861.png">
+ <img width="728"  height="551" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140655986-b48283f7-bcfe-49fc-b10a-b0ca7cdffcdc.png">
+ 
+
  In de boufase heb ik met behulp va HTML en CSS mijn visitekaartje gebouwd.
  
 
