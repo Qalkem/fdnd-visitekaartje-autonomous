@@ -18,15 +18,12 @@ In de ontwerpfase heb ik  gebruik gemaakt van divergeren en convergeren om een p
 <img width="305"  height="314" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653361-2b76b716-65ec-4033-bfe9-f64056ca5e19.jpg">
 <img width="305"  height="314" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653516-af539a39-8f48-4326-9388-298ee9b6b643.jpg">
  
-
- 
- 
-
- 
-
-
- 
  # Bouwfase 👷
+ 
+ In de boufase heb ik met behulp va HTML en CSS mijn visitekaartje gebouwd.
+ <img width="305"  height="314" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140653625-159efd59-a20e-4ea7-83a5-417de78ce861.png">
+ 
+
  
  
  # Integreren 👨🏻‍💻
